@@ -16,6 +16,6 @@ Very powerfull & dangerou WhatsApp Bug  bot.
 -     https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 
-
+### you can also deploy on panel using the normal method kama haujui wewe ni haga
 
 
