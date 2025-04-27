@@ -1,5 +1,5 @@
 ### WhatsApp Bug Bot By `Tylor`
-Very powerfull & dangerou WhatsApp Bug  bot. 
+Very powerfull & dangerous WhatsApp Bug  bot. 
 
 
 
